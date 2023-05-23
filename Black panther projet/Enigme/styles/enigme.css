@@ -1,0 +1,207 @@
+.saynax{
+    margin-bottom: 10px;
+    padding: 10px;
+    display: flex;
+    margin-left: 25%;
+}
+
+li a{
+    float: right;
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+
+li{
+    display: inline;
+}
+
+#liste ul{
+    margin-right: -400%;
+    font-family: 'Titre h2';
+    font-size: 23px;
+}
+
+.eng{
+    color: #9E91B7;
+    border-bottom: 4px #9E91B7;
+}
+
+.secpr{
+    background-image: url("../styles/img/arrière_plan.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.okotexte2 {
+    font-size: x-small;
+    margin-top: 20%;
+    color: white;
+    background-image: url("../styles/img/Pantherenigme2.png");
+    background-size: 200%;
+    background-repeat: no-repeat;
+    background-position: 30px;
+    height: 250px;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 60%;
+}
+
+.sect h1{
+    color: #9E91B7;
+    margin-left: 8%;
+    font-family: 'Titre';
+}
+
+.ex {
+    color: white;
+    margin-top: 10%;
+    margin-bottom: 25%;
+}
+.ex h2{
+    font-size: medium;
+}
+
+.rp{
+    height: 40px;
+    width: 60%;
+    border: 1%;
+    border-radius: 30px;
+    background: transparent;
+    border-color: wheat;
+    text-decoration: white;
+}
+
+.btrp{
+    background-color: #F2CEF2;
+    border-radius: 30px;
+    text-decoration: white;
+    height: 38px;
+    width: 20%;
+    margin-left: -38%;
+    margin-top: 15%;
+    margin-bottom: 30%;
+}
+
+.Als{
+    color: white;
+}
+
+.ls {
+    color: white;
+    font-size: x-small;
+    text-align: center;
+    margin-top: 28%;
+    font-size: x-small;
+    margin-top: 20%;
+    color: white;
+    background-image: url("../styles/img/Pantherenigme2.png");
+    background-size: 200%;
+    background-repeat: no-repeat;
+    background-position: 30px;
+    height: 250px;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 60%;
+}
+
+
+
+.okoimg img{
+    width: 190%;
+    margin-left: -30%;
+    margin-top: -30%;
+}
+
+.okot {
+    margin-left: 30%;
+    margin-top: 40%;
+}
+
+.okotexte{
+    color: #9E91B7 ;
+}
+
+
+
+footer{
+    background-image: url("../styles/img/back_footer.png");
+}
+
+.footernous h1{
+    font-size: 20px;
+    color: white;
+    margin-left: 45px;
+    margin-bottom: 10%;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+/* footer */
+.footertxt{
+    color: white;
+}
+
+.footertxt h1{
+    font-size: 20px;
+}
+
+.footernous{
+    margin-top: 50%;
+    margin-left: 5%;
+}
+
+.footertxt{
+    margin-top: 50%;
+    margin-left: 30%;
+}
+
+.ft2{
+    margin-top: 47%;
+    background-size: 90%;
+    margin-bottom: 75%;
+    margin-left: 25%;
+}
+
+.footer1{
+    background-image: url("../styles/img/footer1.png");
+    background-size: 100%;
+    margin-bottom: 60%;
+    margin-top: 47%;
+    margin-left: 40%;
+    background-repeat: no-repeat;
+}
+
+.GTA{
+    color: white;
+    margin-top: -30%;
+    font-size: 12px;
+}
+
+
+/* fonts */
+@font-face{
+    font-family: 'Titre h1';
+    src: url('/fonts/panthera.otf');
+}
+
+@font-face{
+    font-family: 'Titre h2';
+    src: url('/fonts/BEYNO.ttf');
+}
+
+@font-face{
+    font-family: 'Texte';
+    src: url('/fonts/Cantarell-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Titre';
+    src: url('/fonts/WakandaForever-Regular.ttf');
+}

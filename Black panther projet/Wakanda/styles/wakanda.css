@@ -1,0 +1,199 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+}
+
+/* header */
+
+.saynax{
+    margin-bottom: 10px;
+    padding: 10px;
+    display: flex;
+    margin-left: 25%;
+}
+
+li a{
+    float: right;
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+
+li{
+    display: inline;
+}
+
+.wka{
+    color: #9E91B7;
+}
+
+#liste ul{
+    margin-right: -340%;
+    font-family: 'Titre h2';
+    font-size: 23px;
+}
+
+
+.wkd{
+    background: url("../styles/img/Pantherwakanda1.png");
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -6%;
+}
+
+.txt h1{
+    color: #9E91B7 ;
+    font-family: 'Titre h2';
+}
+
+.txt p{
+    color: white;
+    font-family: 'Texte';
+    font-size: 12px;
+}
+
+.txt h2{
+    color: #9E91B7 ;
+    font-family: 'Titre';
+}
+
+.ppp{
+    color: white;
+    padding-top: 50%;
+    font-family: 'Texte';
+}
+
+/* section1*/
+
+.origine{
+    font-size: 10px;
+    text-align: justify;
+}
+
+.unC{
+    font-size: 10px;
+    text-align: justify;
+}
+
+.leC{
+    font-size: 10px;
+}
+
+.gueurre{
+    font-size: 10px;
+}
+
+.force{
+    font-size: 10px;
+}
+
+.anec{
+    font-size: 10px;
+}
+
+.unh1{
+    font-size: 26px;
+}
+
+.section1 {
+    background: url("../styles/img/Pantherwakanda2.png");
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 95%;
+}
+
+.prcp{
+    background-image: url("../styles/img/arrière_plan.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 60%;
+}
+
+.vil{
+    color: #9E91B7;
+    font-family: 'Titre h2';
+    font-size: medium;
+}
+
+/* footer */
+.footertxt{
+    color: white;
+    font-family: 'Texte';
+}
+
+.footertxt h1{
+    font-size: 20px;
+}
+
+.footernous{
+    margin-top: 50%;
+    margin-left: 5%;
+}
+
+.footertxt{
+    margin-top: 50%;
+    margin-left: 30%;
+}
+
+.ft2{
+    margin-top: 47%;
+    background-size: 90%;
+    margin-bottom: 75%;
+    margin-left: 25%;
+}
+
+.footer1{
+    background-image: url("../styles/img/footer1.png");
+    background-size: 100%;
+    margin-bottom: 60%;
+    margin-top: 47%;
+    margin-left: 40%;
+    background-repeat: no-repeat;
+}
+
+footer{
+    background-image: url("../styles/img/back_footer.png");
+}
+
+.footernous h1{
+    font-size: 20px;
+    color: white;
+    margin-left: 45px;
+    margin-bottom: 10%;
+}
+
+.GTA{
+    color: white;
+    margin-top: -30%;
+    font-size: 12px;
+    font-family: 'Texte';
+}
+
+/* fonts */
+@font-face{
+    font-family: 'Titre h1';
+    src: url('/fonts/panthera.otf');
+}
+
+@font-face{
+    font-family: 'Titre h2';
+    src: url('/fonts/BEYNO.ttf');
+}
+
+@font-face{
+    font-family: 'Texte';
+    src: url('/fonts/Cantarell-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Titre';
+    src: url('/fonts/WakandaForever-Regular.ttf');
+}
